@@ -25,7 +25,7 @@
 ## ch5 structure and interface
 
 1. structure
-1. (un)serialize
+1. (de)serialize
 1. interface
 
 ## ch6 web appication
