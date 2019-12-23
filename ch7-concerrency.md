@@ -153,7 +153,7 @@ data := <-c1 // c1에서 자료를 받는다.
 ```go
 // Working but bad example
 c := make(chan int, 1)
-c <- 5>
+c <- 5
 fmt.Println(<-c)
 ```
 
